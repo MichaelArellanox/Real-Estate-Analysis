@@ -11,7 +11,7 @@ This project was assigned to me in my MAT-303 course which is Applied Statistics
 My objective is to create multiple regression models for the housing_v2 data set, using sales price of a house as the dependent variable, and attributes like the size of the living area, number of bathrooms, school ratings, and crime rates as independent variables. Once these models are created, it is my job to analyze the results and determine which model is the most appropriate to predict house prices.
 
 ## Data set
-[housing data set](https://github.com/MichaelArellanox/Fuel-Economy/blob/main/mtcars.csv)
+[housing data set](https://github.com/MichaelArellanox/Real-Estate-Analysis/blob/main/housing_v2.csv)
 
 ## R Scripts
 [Scripts](https://github.com/MichaelArellanox/Real-Estate-Analysis/blob/main/RealEstateAnalysis.ipynb)
